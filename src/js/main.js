@@ -141,7 +141,7 @@ answer.addEventListener('keyup', (e) => check(e, sum, () => {
 //wrong answer
 }))
 
-repeat.addEventListener('keypress', start);
+repeat.addEventListener('click', start);
 
 
 // Start first task
